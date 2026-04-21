@@ -1,1 +1,2 @@
 hello from BBB
+テキストB
