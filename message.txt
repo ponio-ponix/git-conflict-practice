@@ -1,1 +1,2 @@
 hello only from A
+テキストメイン
