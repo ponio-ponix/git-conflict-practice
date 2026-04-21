@@ -1,2 +1,2 @@
-hello only from A
-テキストメイン
+hello from BBB
+テキストB
