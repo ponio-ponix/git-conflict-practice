@@ -1,7 +1,6 @@
 hello from BBB
 テキストB
-もう一回main
+Bももう一回
 
-aaa
-main
-nonfast
+BBB
+BBBB
